@@ -1,0 +1,17 @@
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiData.deps.json
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiData.runtimeconfig.json
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiData.runtimeconfig.dev.json
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiData.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\ref\SamuraiData.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiData.pdb
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiDomain.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\bin\Debug\net5.0\SamuraiDomain.pdb
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.csproj.AssemblyReference.cache
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.AssemblyInfoInputs.cache
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.AssemblyInfo.cs
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.csproj.CoreCompileInputs.cache
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\ref\SamuraiData.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.pdb
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiData\obj\Debug\net5.0\SamuraiData.genruntimeconfig.cache

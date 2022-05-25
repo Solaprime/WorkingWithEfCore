@@ -1,0 +1,12 @@
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\bin\Debug\net5.0\SamuraiDomain.deps.json
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\bin\Debug\net5.0\SamuraiDomain.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\bin\Debug\net5.0\ref\SamuraiDomain.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\bin\Debug\net5.0\SamuraiDomain.pdb
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.csproj.AssemblyReference.cache
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.AssemblyInfoInputs.cache
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.AssemblyInfo.cs
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.csproj.CoreCompileInputs.cache
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\ref\SamuraiDomain.dll
+C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\SamuraiDomain\obj\Debug\net5.0\SamuraiDomain.pdb

@@ -12,9 +12,10 @@ namespace SamuraiData
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(
-                "Data Source=(localdb)\\MSSQLLocalDb; Initial Catalog=SamuraiAppData");
+                "Data Source=(localdb)\\MSSQLLocalDb; Initial Catalog=SamuraiAppSolution");
         }
     }
       
-    
+    // we set the SamurailData project as our startup project for Migration to work..
+    // How to create Migration is different in .net5.0 and .Net 3.1
 }
