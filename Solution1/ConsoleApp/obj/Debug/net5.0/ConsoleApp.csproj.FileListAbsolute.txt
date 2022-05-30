@@ -63,4 +63,3 @@ C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\ConsoleApp\bin\Debug\net5.0\Samur
 C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\ConsoleApp\bin\Debug\net5.0\SamuraiDomain.dll
 C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\ConsoleApp\bin\Debug\net5.0\SamuraiData.pdb
 C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\ConsoleApp\bin\Debug\net5.0\SamuraiDomain.pdb
-C:\Users\Arinola\Desktop\EFCORE\Flow\Solution1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
